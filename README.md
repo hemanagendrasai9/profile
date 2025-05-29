@@ -1,50 +1,34 @@
 <h1 align="center">Hi, I'm Hema Nagendra Sai Chanda 👋</h1>
-<h3 align="center">Prompt Engineer | AI Developer | UX-focused AI Toolsmith</h3>
+<h3 align="center">Prompt Engineer</h3>
 
 ---
 
-🎯 **Mission**: Build world-class, AI-native tools that replace outdated enterprise software.
+I'm a prompt engineer who rarely needs to write code—because I make AI do it for me.
 
-🚀 **Current Focus**: Prompt Engineering, Autonomous Agents, GenAI UX Systems, and Multi-LLM Architectures.
-
-🌏 **Location**: Vijayawada, India | Open to global remote/freelance roles
-
-📫 **Contact**: hemanagendrasaich9@gmail.com | +91 9848484941  
-🔗 [Portfolio coming soon] | [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) | [Twitter](https://twitter.com/YOUR-HANDLE)
-
----
-
-## 🧠 My AI Expertise
-
-- 🔹 Prompt Engineering (instruction tuning, system prompt design, multi-turn)
-- 🔹 RAG Systems & Contextual Agents (LangChain, Supabase, GPT-4)
-- 🔹 GenAI UI/UX Design (React, Tailwind, Framer Motion, 21st.dev libraries)
-- 🔹 Multi-Agent Control Systems (AutoQA Chains, Self-improving workflows)
-- 🔹 Vision + Text AI (image grounding, GPT-4V, OCR pipelines)
+Meet Hema Nagendra Sai, the self-proclaimed prompt sorcerer who transforms ideas into powerful AI-driven workflows. Passionate about crafting intelligent prompts and designing seamless UX frontend websites powered entirely by AI, his creativity flows as freely as his collection of perfectly timed memes celebrating every breakthrough.
 
 ---
 
 ## 💼 Highlight Projects
 
-| Project | Description | Tech Stack | Demo |
-|--------|-------------|------------|------|
-| **CoachGPT** | AI productivity coach for task tracking, focus, and self-feedback | GPT-4, LangChain, Supabase, React | [Demo Soon] |
-| **AutoPitchGPT** | Generates investor-ready pitch decks using GPT + structured workflows | GPT-4, Node, React, Webhooks | [Demo Soon] |
-| **SmartLeadGen Agent** | AI agent for lead discovery, scoring, and conversion across platforms | Multi-Agent, GPT-4, Supabase | [Demo Soon] |
-| **Agentive UI System** | A reusable UI system for building agent-first GPT apps | React, Tailwind, 21st.dev | [Demo Soon] |
+| Project           | Description                                            | Demo Link                                                                 |
+|-------------------|--------------------------------------------------------|---------------------------------------------------------------------------|
+| **CoachGPT**      | AI productivity coach for task tracking and self-feedback | [Demo](https://claude.ai/public/artifacts/3b132180-e949-45b7-a6f7-94723e64401c) |
+| **AutoPitchGPT**  | One-click AI deck & pitch creator for startups         | [Demo](https://claude.ai/public/artifacts/4837de19-9ffc-4322-b0e9-0c272194d054) |
+| **Agentive UI System** | UI system for building agent-first GPT apps         | [Demo](https://claude.ai/public/artifacts/6205a47c-3488-4119-a0a0-df5436ee48f1) |
+| **SmartLeadGen Agent** | AI agent for lead discovery, scoring, and conversion  | [Demo](https://cjjurawt.gensparkspace.com/)                               |
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Prompt Engineering Tech & Skills
 
-![React](https://img.shields.io/badge/-React-black?logo=react)
-![GPT-4](https://img.shields.io/badge/-GPT4-8A2BE2?logo=openai)
-![LangChain](https://img.shields.io/badge/-LangChain-yellowgreen)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css)
-![Vercel](https://img.shields.io/badge/-Vercel-black?logo=vercel)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT4-412991?logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-yellowgreen?logo=langchain)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-blue)
+![RAG Systems](https://img.shields.io/badge/RAG-Contextual_Embeddings-lightgrey)
+![AI Agents](https://img.shields.io/badge/AI_Agents-orange)
+![GPT APIs](https://img.shields.io/badge/GPT_APIs-purple)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 
 ---
 
